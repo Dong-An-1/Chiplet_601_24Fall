@@ -1,8 +1,5 @@
 # Chiplet_601_24Fall
 
-Here is the English translation of the content you provided:
-
----
 
 ### **What are the current Chiplet technologies?**
 
@@ -39,8 +36,8 @@ Here is the English translation of the content you provided:
 2. **High-Performance Computing and Data Center Project**: A high-performance computing platform can be designed based on AMD EPYC or Intel Agilex FPGA, integrating TeraPHY optical I/O modules to achieve a low-latency, high-bandwidth computing environment suitable for data-intensive tasks and complex simulations.
 
 3. **UCIe Standard Integration Project**: A multi-vendor integrated Chiplet system can be designed using the UCIe standard to achieve cross-vendor chiplet interconnect. In this project, processors, memory controllers, and other modules from different vendors can be freely combined to form a flexible system architecture.
+From ChatGpt Summary
 
----
 
 ### **Proposed Project: Adaptive Baud Rate Based on Chiplet Technology**
 
@@ -56,6 +53,4 @@ Here is the English translation of the content you provided:
 - Implement adaptive baud rate hardware control through FPGA processing units.
 - Design and implement communication protocols (e.g., UART) that support adaptive baud rate.
 
----
 
-If you need further clarification or more detailed explanations, feel free to ask!
